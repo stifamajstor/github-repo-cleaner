@@ -1,3 +1,4 @@
+
 # GitHub Repository Bulk Deletion Script
 
 This script allows you to bulk delete your GitHub repositories using a provided GitHub username and a personal access token. It uses the GitHub API and requires `jq` to be installed on your system.
@@ -16,6 +17,7 @@ This script allows you to bulk delete your GitHub repositories using a provided 
 
 ```bash
 ./delete_repos.sh <github_username> <github_token>
+```
 
 ## Notes
 
